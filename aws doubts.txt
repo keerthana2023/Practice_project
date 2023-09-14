@@ -1,0 +1,73 @@
+jira
+git
+pushing .net framework into git
+
+
+
+1. Regular activities for hosting
+2.monitoring
+3.devops-docker
+
+
+
+1.Launching ami in different availability zones
+2.Adding volume in linux
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jira
+git bash
+how to push .net framework into git
+
+
+migration
+availability zones &regions how to select while creating instance from ami
+how to configure volume in linux
+
+
+regular activies of hosting
+cloudwatch-monitoring activities
+Devops activities
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
